@@ -1,5 +1,5 @@
 ---
 header_image: "images/cover-image.jpg"
-header_headline: "Wildly Well Farm"
-header_subheadline: "Taking urban farming to a whole new level"
+header_headline: "WILDLY WELL FARM"
+header_subheadline: "Taking Urban Farming to a Whole. New. Level."
 ---
